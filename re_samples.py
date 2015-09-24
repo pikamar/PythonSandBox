@@ -4,8 +4,8 @@
 
 import re
 import sys
-sys.path.append( "helper" )
-from re_helper import test_patterns
+#sys.path.append( "helper" )
+from helper.re_helper import test_patterns
 
 print ("\n##########> RE search()")
 
