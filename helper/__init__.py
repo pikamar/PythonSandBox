@@ -1,0 +1,1 @@
+from .re_helper import test_patterns
