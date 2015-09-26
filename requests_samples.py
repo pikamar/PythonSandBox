@@ -1,7 +1,7 @@
 # Credits
 #   http://docs.python-requests.org/en/latest/user/quickstart/#make-a-request
 # Installation
-# pip install requests requests_toolbelt requests_oauthlib
+# sudo pip install requests requests_toolbelt requests_oauthlib
 
 import requests
 
